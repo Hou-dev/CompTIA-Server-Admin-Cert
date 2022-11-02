@@ -29,3 +29,32 @@ Some common information needed before proceeding:
 25. What device can be used for port security? **Ans: Switch**
 26. How do you list disks on a Linux? **Ans: fdisk -l**
 27. What is fstab used for on Linux? **Ans: Mount Partitions**
+
+# Part 1
+
+## Server Hardware
+
+### Racking
+Racking is the process of population a rack mounted into a rack system. These devices include routers, switches, ids, servers,etc.
+
+### U Sizes
+Each U is approximately 1.75 inches or 44.45 mm high. A rack can be 19 inches to 23 inches in width.
+
+### Thermal Dissipation
+Removal of heat can be done with a Hot aisle and Cold aisle configuaration. Which involves lining the racks into alernating rows of cold air intakes and hot air exhausts.
+
+### Shrouds
+Are used to direct airflow over components.
+
+### Fans
+Are used to assist a heat sink in removal of heat.
+
+### Power Distribution Unit
+PDUs can provide power conditioning, surge protection, case alarm and environment monitoring. 
+
+### KVM (Keyboard Video Mouse)
+Allows managment of multiple systems using single keyboard and mouse.
+
+### Serial Connection
+Allows for managment of systems without being physically at the location.
+
