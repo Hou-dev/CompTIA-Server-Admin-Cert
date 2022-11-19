@@ -143,3 +143,8 @@ Central processing Unit. Speed is measured in GHZ or MHZ. Typically fit a LGA or
 ECC VS NON-ECC 
 ECC offers error correcting properties. ECC is slower and more expensive. An algorithm is used when the ram is accessed and deemed vailed when the results are all Zeros. Non ECC is more common and can be found on consumer desktops and laptops.
 
+### Interface Types
+1. PCI standard on motherboard now replaced by PCI-E
+2. PCI-X a double-wide version of the 32bit PCI local.
+3. PCI-E uses a network of serial interconnects that operate at high speed.
+
